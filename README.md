@@ -23,9 +23,6 @@ A tiny LLM from Scratch
 - **Python** (Programming)
 - **Weights and Biases** (Experiment Tracking)
 
-## Training Environment:
-MacBook M1 Pro - 16GB 
-
 ## Next Steps:
 - Complete Notes.md
 - Distributed training using Deepseed
