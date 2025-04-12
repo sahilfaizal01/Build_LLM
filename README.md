@@ -1,6 +1,6 @@
-# Build_LLM
+# BtLM - A tiny LLM from Scratch
 
-A tiny LLM from Scratch
+An implementation of GPT-style LLM Model with 20M parameters from scratch using PyTorch in Python
 
 ## Insights:
 - **No. of parameters:** 19.83 Million (~20 Million)
