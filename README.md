@@ -14,7 +14,6 @@ An implementation of GPT-style LLM Model with 20M parameters from scratch using 
 - **Embedding Dimension:** 384
 - **Tokenizer Vocab Size:** 4096
 - **train_iters** = 100000
-- **No. of lines of code:** 32,000 :)
 
 ## Dataset:
 Opensource Wikipedia Data
