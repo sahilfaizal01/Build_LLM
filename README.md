@@ -1,4 +1,4 @@
-# BtLM - A tiny LLM from Scratch
+# tLM - A tiny LLM from Scratch
 
 An implementation of GPT-style LLM Model with 20M parameters from scratch using PyTorch in Python
 
