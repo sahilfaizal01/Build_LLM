@@ -34,7 +34,7 @@ MacBook M1 Pro - 16GB
 - Incorporate RL based alignment
 - Optimization techniques + On-device deployment
 
-## Training Charts
+## Training Charts:
 ### 1. Train Loss Curve
 ![image](https://github.com/user-attachments/assets/7203a337-0b1a-49cb-b753-cab7b6d01d62)
 ### 2. Val Loss Curve
