@@ -10,8 +10,8 @@ An implementation of GPT-style LLM Model with 20M parameters from scratch using 
 - **No. of transformer heads:** 7
 - **Context Window:** 512 tokens
 - **Embedding Dimension:** 384
-- - **Tokenizer Vocab Size:** 4096
-- * **train_iters** = 100000
+- **Tokenizer Vocab Size:** 4096
+- **train_iters** = 100000
 - **No. of lines of code:** 32,000 :)
 
 ## Train Config:
