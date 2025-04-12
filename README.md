@@ -7,11 +7,16 @@ A tiny LLM from Scratch
 - **Data Type:** FP16
 - **Best Loss:** 2.267 (Inital: 8.375)
 - **Total Data Size:** 59.31 Million (Training: 53.29 M and Validation: 5.92M)
-- **Tokenizer Vocab Size:** 4096
 - **No. of transformer heads:** 7
 - **Context Window:** 512 tokens
 - **Embedding Dimension:** 384
+- - **Tokenizer Vocab Size:** 4096
+- * **train_iters** = 100000
 - **No. of lines of code:** 32,000 :)
+
+## Train Config:
+* **Optimizer:** AdamW (Adam with Weight Decay)
+* **Scheduler:** CosineAnnealingLR
 
 ## Tools:
 - **PyTorch** (Deep Learning Framework)
