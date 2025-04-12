@@ -5,7 +5,7 @@ An implementation of GPT-style LLM Model with 20M parameters from scratch using 
 ## Insights:
 - **No. of parameters:** 19.83 Million (~20 Million)
 - **Data Type:** FP16
-- **Best Loss:** 2.267 (Inital: 8.375)
+- **Best Loss:** 2.267 (Initial: 8.375)
 - **Total Data Size:** 59.31 Million (Training: 53.29 M and Validation: 5.92M)
 - **No. of transformer heads:** 7
 - **Context Window:** 512 tokens
@@ -13,6 +13,9 @@ An implementation of GPT-style LLM Model with 20M parameters from scratch using 
 - **Tokenizer Vocab Size:** 4096
 - **train_iters** = 100000
 - **No. of lines of code:** 32,000 :)
+
+## Dataset:
+Opensource Wikipedia Data
 
 ## Train Config:
 * **Optimizer:** AdamW (Adam with Weight Decay)
